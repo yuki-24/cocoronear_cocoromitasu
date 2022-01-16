@@ -1503,5 +1503,5 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .cnt_tglin{ background: #fff; padding:6% 4%;}
 
     /*追加20220116*/
-    #cv_tel_mv01{margin: 10px auto; padding: 0 0 10px 0;}
+    #cv_tel_mv01{margin: 10px auto 0 auto; padding: 0 0 10px 0;}
 }
