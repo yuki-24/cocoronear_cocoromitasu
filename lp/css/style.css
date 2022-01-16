@@ -1158,7 +1158,7 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .idx_mv_ttl{margin:0;font-size: 5.3vw; line-height: 1em;}
     .idx_mv_ttl span{background-color: rgba(255,255,255,0.8); padding: 3px 5px 6px 5px; margin: 6px 0;}
     .mv_badge{ bottom: auto; top: 98%;}
-    .mv_sp_ttl{ width: 65%; font-size: 1.3rem; line-height: 1.5em; padding: 4% 0;}
+    .mv_sp_ttl{ width: 65%; font-size: 1.3rem; line-height: 1.5em; padding: 4% 0 0;}
 
     .idx_mv_p_ttl{font-size: 1.15rem;padding:5px;}
     .idx_mv_p_li{padding: 4% 0;}
@@ -1503,5 +1503,5 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .cnt_tglin{ background: #fff; padding:6% 4%;}
 
     /*追加20220116*/
-    #cv_tel_mv01{max-width: 330px; margin: -10px auto 0 auto; padding: 0 0 10px 0;}
+    #cv_tel_mv01{margin: 10px auto; padding: 0 0 10px 0;}
 }
