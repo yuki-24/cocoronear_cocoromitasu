@@ -1,5 +1,0 @@
-AuthUserFile /home/wp095002/cocoromitasu.com/public_html/test/.htpasswd
-AuthGroupFile /dev/null
-AuthName "BASIC認証"
-AuthType Basic
-require valid-user
