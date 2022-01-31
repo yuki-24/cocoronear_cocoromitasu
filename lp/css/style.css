@@ -721,6 +721,10 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
 
 .cnt_bx{ padding: calc(20px + 3%) 0 !important;}
 .cnt_tglin{ background: #fff; padding: calc(25px + 2%);}
+
+/* <!-- 20220131 yuki --> */
+.hd_ct_tel_sp{display: none;}
+/* <!-- /20220131 yuki --> */
 /*▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲*/
 @media screen and (max-width:1024px) {
     body{padding: 159px 0 0 0;}
@@ -1507,4 +1511,9 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     /* <!-- 20220116 yuki -->/*追加20220116*/ */
     #cv_tel_mv01{margin: 10px auto 0 auto; padding: 0 0 10px 0;}
     /* <!-- /20220116 yuki --> */
+
+    /* <!-- 20220131 yuki --> */
+    .hd_ct_tel{display: none;}
+    .hd_ct_tel_sp{display: block; padding: 0 0 7px 0;}
+    /* <!-- /20220131 yuki --> */
 }
