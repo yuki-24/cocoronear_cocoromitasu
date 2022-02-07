@@ -725,6 +725,9 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
 /* <!-- 20220201 yuki --> */
 .hd_ct_tel_sp{display: none;}
 /* <!-- /20220201 yuki --> */
+/* <!-- 20220207 yuki --> */
+.idx_gr_up_r{width: 40%; float: right; margin: 0 0 0 0;}
+/* <!-- /20220207 yuki --> */
 /*▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲*/
 @media screen and (max-width:1024px) {
     body{padding: 159px 0 0 0;}
@@ -1516,4 +1519,18 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .hd_ct_tel{display: none;}
     .hd_ct_tel_sp{display: block; padding: 0 0 7px 0;}
     /* <!-- /20220201 yuki --> */
+
+    /* <!-- 20220207 yuki chatch--> */
+    .idx_mv{background: url(../images/idx_mv_sp.jpg) right center/cover no-repeat; padding: 5% 0 4% 0;}
+    .idx_mv_catch{display: block;}
+    .idx_mv_ttl_catch{margin: 0; font-size: 4.3vw; line-height: 1em;}
+    .idx_mv_ttl_catch span{background-color: rgba(255,255,255,0.8); padding: 3px 5px 6px 5px; margin: 6px 0; display: table;}
+    .idx_mv_heart{margin-bottom: 20px; padding: 0; line-height: 0; max-width: 150px; width: 25%;}
+    .mv_sp_ttl_catch{width: 70%; font-size: 1.3rem; line-height: 1.5em; padding: 2% 0 0;}
+    .mv_badge{top: 88%;}
+    #cv_tel_mv01{margin: 10px auto 0 auto; padding: 0 0 10px 0;}
+    /* <!-- /20220207 yuki catch--> */
+    /* <!-- 20220207 yuki director--> */
+    .idx_gr_up_r{width: 45%; margin: 0 0 0 0; }
+    /* <!-- /20220207 yuki director--> */
 }
