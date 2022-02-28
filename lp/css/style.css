@@ -1291,7 +1291,7 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .idx_prms_img{width: 18%;}
     .idx_prms_txb{margin: 0 0 0 0; width: 78%; float: right; }
     .idx_prms_txtl{ font-size: 4.55vw; }
-    .idx_prms_txtl1{ font-size: 2rem; width: 20px;  line-height: 24px;}
+    .idx_prms_txtl1{ font-size: 2rem; width: 30px;line-height: 24px; white-space: nowrap;}
     .idx_prms_txtl2{ margin: 0 0 0 28px; line-height: 24px;}
     .idx_prms_txtx{ font-size: 1.2rem;}
 
