@@ -1291,7 +1291,7 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .idx_prms_img{width: 18%;}
     .idx_prms_txb{margin: 0 0 0 0; width: 78%; float: right; }
     .idx_prms_txtl{ font-size: 4.55vw; }
-    .idx_prms_txtl1{ font-size: 2rem; width: 20px;  line-height: 24px;}
+    .idx_prms_txtl1{ font-size: 2rem; width: 30px;line-height: 24px; white-space: nowrap;}
     .idx_prms_txtl2{ margin: 0 0 0 28px; line-height: 24px;}
     .idx_prms_txtx{ font-size: 1.2rem;}
 
@@ -1532,7 +1532,7 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     /* <!-- 20220207 yuki --> */
     .idx_mv_ttl_catch1{display: none}
     .idx_mv{background: url(../images/idx_mv_sp.jpg) right center/cover no-repeat; padding: 5% 0 4% 0;}
-    .idx_mv_ttl_catch2{display: block; margin: 0; font-size: 4.3vw; line-height: 1em;}
+    .idx_mv_ttl_catch2{display: block; margin: 0; font-size: 3.8vw; line-height: 1em;}
     .idx_mv_ttl_catch2 span{background-color: rgba(255,255,255,0.8); padding: 3px 5px 6px 5px; margin: 6px 0; display: table;}
     .idx_mv_heart{margin-bottom: 13px; padding: 0; line-height: 0; max-width: 150px; width: 25%;}
     .mv_sp_ttl_catch{width: 70%; font-size: 1.3rem; line-height: 1.5em; padding: 2% 0 0; margin-bottom: 25px;}
