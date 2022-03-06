@@ -733,6 +733,21 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
 .idx_mv_ttl_catch2{display: none}
 .idx_greet{ padding: 4% 0 3% 0;}
 /* <!-- /20220207 yuki --> */
+
+/*2022.0306追加小西*/
+.ctct_box_cb{ font-size: 1.5rem; line-height: 20px; padding: 20px 0; margin: auto; display: table;}
+.ctct_pp_w{ overflow-y: scroll; padding:calc(15px + 2%); background: #fff; max-height: 250px; height: 20vh;}
+.ctct_pp_ttl{ font-size: 1.9rem; font-weight: 500; text-align: center; margin: 0 0 calc(15px + 2%) 0;}
+.ctct_pp_bx{padding: calc(10px + 2%) 0; display: flex; border-top: 1px solid #dfdfdf; justify-content: space-between; flex-wrap: wrap;}
+.ctct_ppbx_ttl{ font-size: 1.55rem; line-height: 1.4em; padding: 0 0 10px 0; width: 230px; font-weight: 500;}
+.ctct_ppbx_txb{ width: calc(100% - 250px);}
+.ctct_ppbx_txb_p1{ font-size: 1.4rem; line-height: 1.65em;}
+.ctct_ppbx_txb_p2{ font-size: 1.4rem; line-height: 1.65em; text-indent: -1em; padding: 0 0 5px 14px;}
+.ctct_ppbx_li1{ padding: calc(5px + 1%) 0 0 0; }
+.ctct_ppbx_li1_2{ padding:0 0 calc(5px + 1%) 0; }
+.ctct_ppbx_li1 li,.ctct_ppbx_li2 li{ font-size:1.2rem;line-height: 1.35em; padding: 4px 0 4px 12px; text-indent: -1em;}
+.ctct_ppbx_li2{ padding: calc(5px + 1%) 0 0 15px; }
+/* 2022.0306追加小西end */
 /*▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲*/
 @media screen and (max-width:1024px) {
     body{padding: 159px 0 0 0;}
@@ -1133,6 +1148,11 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .pla_bxbx_wttl{ font-size: 1.55rem;}
     .pla_bxbx_wp{ font-size: 1.3rem; line-height: 1.4em;}
     .pla_bxbx_ttl1,.pla_bxbx_ttl2,.pla_bxbx_ttl3{ font-size: 1.6rem;}
+    
+    /*2022.0306追加小西*/
+    .ctct_ppbx_ttl{ font-size: 1.5rem;padding: 0 0 10px 0;width: 100%; font-weight: 500;}
+    .ctct_ppbx_txb{ width:100%;}
+    /* 2022.0306追加小西end */
 }/*▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲*/
 
 
