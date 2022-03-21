@@ -1584,6 +1584,8 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     /* <!-- 20220317 yuki --> */
     #nagare{padding-top: 8%; margin-top: -8%;}
     #price{padding-top: 8%; margin-top: -8%;}
+    .top_hyou_ul{margin: 0 5% 3% 5%;}
+    .top_hyou_ul li{width: 40vw;}
     .top_hyou_ul li a{font-size: 1.25rem; padding: 15px 15px 15px 18px;background: url(../images/arrow_wbr.png) 5% center/12px no-repeat; font-weight: 600; letter-spacing: -0.03em;}
     /* <!-- /20220317 yuki --> */
     /* <!-- 20220320 yuki --> */
