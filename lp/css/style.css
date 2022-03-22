@@ -741,8 +741,8 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
 .top_hyou_ul li a{font-size: 1.45rem; line-height: 1.3em; background: url(../images/arrow_wbr.png) 5% center/14px no-repeat; padding: 10px; color: #fff; text-align: center; font-weight: 500;}
 /* <!-- /20220317 yuki --> */
 /* <!-- 20220320 yuki --> */
-.mv_badge{position: absolute; max-width: 240px; bottom: -20%; right: 2%; width: 17%;}
-.mv_badge1{position: absolute; max-width: 240px; bottom: -20%; right: 20%; width: 14%;}
+.mv_badge1{position: absolute; max-width: 240px; bottom: -20%; right: 2%; width: 17%;}
+.mv_badge2{position: absolute; max-width: 240px; bottom: -20%; right: 20%; width: 14%;}
 /* <!-- 20220320 yuki --> */
 
 /*2022.0306追加小西*/
@@ -910,8 +910,8 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .idx_greet{ padding: 5% 0 4% 0;}
     /* <!-- /20220207 yuki --> */
     /* <!-- 20220320 yuki --> */
-    .mv_badge{max-width: 190px;bottom: 0%; right: 6%; width: 15%;}
-    .mv_badge1{max-width: 190px;bottom: -26%; right: 6%; width: 14%;}
+    .mv_badge1{max-width: 190px;bottom: 0%; right: 6%; width: 15%;}
+    .mv_badge2{max-width: 190px;bottom: -26%; right: 6%; width: 14%;}
     /* <!-- /20220320 yuki --> */
 }/*▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲*/
 
@@ -1169,8 +1169,8 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .ctct_ppbx_txb{ width:100%;}
     /* 2022.0306追加小西end */
     /* <!-- 20220320 yuki --> */
-    .mv_badge{ max-width: 180px;bottom: 3%; width: 17%;}
-    .mv_badge1{ max-width: 180px;bottom: -22%; width: 15%;}
+    .mv_badge1{ max-width: 180px;bottom: 3%; width: 17%;}
+    .mv_badge2{ max-width: 180px;bottom: -22%; width: 15%;}
     /* <!-- /20220320 yuki --> */
 
 }/*▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲*/
@@ -1589,8 +1589,8 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .top_hyou_ul li a{font-size: 1.25rem; padding: 15px 15px 15px 18px;background: url(../images/arrow_wbr.png) 5% center/12px no-repeat; font-weight: 600; letter-spacing: -0.03em;}
     /* <!-- /20220317 yuki --> */
     /* <!-- 20220320 yuki --> */
-    .mv_badge{ bottom: auto; top: 74%; right: 5%; width: 24%;}
-    .mv_badge1{ bottom: auto; bottom: -59%; right: 6%; width: 24%;}
+    .mv_badge1{ bottom: auto; top: 74%; right: 5%; width: 24%;}
+    .mv_badge2{ bottom: auto; bottom: -59%; right: 6%; width: 24%;}
     /* <!-- /20220320 yuki --> */
 
 }
