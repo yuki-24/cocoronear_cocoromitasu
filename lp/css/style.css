@@ -1592,5 +1592,9 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .mv_badge1{ bottom: auto; top: 74%; right: 5%; width: 24%;}
     .mv_badge2{ bottom: auto; bottom: -59%; right: 6%; width: 24%;}
     /* <!-- /20220320 yuki --> */
+    /* <!-- 20220326 yuki --> */
+    #cv_mail_sub_humburger{background-color: #4ab8cb; background-image: url(../images/mail.png), url(../images/arrow_wb.png); background-position: 4% center,96% center; background-size: 22px,13px; color: #fff; font-weight: 600;}
+    #cv_tel_sub_humburger{background-color: #4ab8cb; background-image: url(../images/tel.png), url(../images/arrow_wb.png); background-position: 4% center,96% center; background-size: 22px,13px; color: #fff; font-weight: 600;}
+    /* <!-- /20220326 yuki --> */
 
 }
