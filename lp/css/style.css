@@ -740,10 +740,10 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
 #price{padding-top: 14%; margin-top: -14%;}
 .top_hyou_ul li a{font-size: 1.45rem; line-height: 1.3em; background: url(../images/arrow_wbr.webp) 5% center/14px no-repeat; padding: 10px; color: #fff; text-align: center; font-weight: 500;}
 /* <!-- /20220317 yuki --> */
-/* <!-- 20220320 yuki --> */
+/* <!-- 20220429 yuki --> */
 .mv_badge1{position: absolute; max-width: 240px; bottom: -20%; right: 2%; width: 17%;}
-.mv_badge2{position: absolute; max-width: 240px; bottom: -20%; right: 20%; width: 14%;}
-/* <!-- 20220320 yuki --> */
+.mv_badge2 ,.mv_badge3 ,.mv_badge4{position: absolute; max-width: 240px; bottom: -20%; right: 20%; width: 14%;}
+/* <!-- 20220429 yuki --> */
 
 /*2022.0306追加小西*/
 .ctct_box_cb{ font-size: 1.5rem; line-height: 20px; padding: 20px 0; margin: auto; display: table;}
@@ -909,10 +909,10 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .idx_mv_ttl_catch1{ font-size: 4.6vw;}
     .idx_greet{ padding: 5% 0 4% 0;}
     /* <!-- /20220207 yuki --> */
-    /* <!-- 20220320 yuki --> */
+    /* <!-- 20220429 yuki --> */
     .mv_badge1{max-width: 190px;bottom: 0%; right: 6%; width: 15%;}
-    .mv_badge2{max-width: 190px;bottom: -26%; right: 6%; width: 14%;}
-    /* <!-- /20220320 yuki --> */
+    .mv_badge2 ,.mv_badge3 ,.mv_badge4{max-width: 190px;bottom: -26%; right: 6%; width: 14%;}
+    /* <!-- /20220429 yuki --> */
 }/*▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲*/
 
 @media screen and (max-width:768px) {
@@ -1168,10 +1168,10 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .ctct_ppbx_ttl{ font-size: 1.5rem;padding: 0 0 10px 0;width: 100%; font-weight: 500;}
     .ctct_ppbx_txb{ width:100%;}
     /* 2022.0306追加小西end */
-    /* <!-- 20220320 yuki --> */
+    /* <!-- 20220429 yuki --> */
     .mv_badge1{ max-width: 180px;bottom: 3%; width: 17%;}
-    .mv_badge2{ max-width: 180px;bottom: -22%; width: 15%;}
-    /* <!-- /20220320 yuki --> */
+    .mv_badge2 ,.mv_badge3 ,.mv_badge4{ max-width: 180px;bottom: -22%; width: 15%;}
+    /* <!-- /20220429 yuki --> */
 
 }/*▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲*/
 
@@ -1588,10 +1588,12 @@ body{animation: fadeIn 2s ease 0s 1 normal;-webkit-animation: fadeIn 2s ease 0s 
     .top_hyou_ul li{width: 40vw;}
     .top_hyou_ul li a{font-size: 1.25rem; padding: 15px 15px 15px 18px;background: url(../images/arrow_wbr.webp) 5% center/12px no-repeat; font-weight: 600; letter-spacing: -0.03em;}
     /* <!-- /20220317 yuki --> */
-    /* <!-- 20220320 yuki --> */
+    /* <!-- 20220429 yuki --> */
     .mv_badge1{ bottom: auto; top: 74%; right: 5%; width: 24%;}
     .mv_badge2{ bottom: auto; bottom: -59%; right: 6%; width: 24%;}
-    /* <!-- /20220320 yuki --> */
+    .mv_badge3{ bottom: auto; bottom: -41%; right: 9%; width: 17%;}
+    .mv_badge4{ bottom: auto; bottom: -70%; right: 6%; width: 24%;}
+    /* <!-- /20220429 yuki --> */
     /* <!-- 20220326 yuki --> */
     #cv_mail_sub_humburger{background-color: #4ab8cb; background-image: url(../images/mail.webp), url(../images/arrow_wb.webp); background-position: 4% center,96% center; background-size: 22px,13px; color: #fff; font-weight: 600;}
     #cv_tel_sub_humburger{background-color: #4ab8cb; background-image: url(../images/tel.webp), url(../images/arrow_wb.webp); background-position: 4% center,96% center; background-size: 22px,13px; color: #fff; font-weight: 600;}

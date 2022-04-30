@@ -23,8 +23,12 @@
 <meta property="og:image" content="images/ogimg.webp" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=yes" />
 <!--stylesheet-->
-<link href="css/normalize.css" rel="stylesheet" type="text/css">
-<link href="css/style.css" rel="stylesheet" type="text/css">
+<!-- 20220430 yuki -->
+<link rel="preload" href="css/normalize.css" as="style">
+<link rel="stylesheet" href="css/normalize.css" media="print" onload="this.media='all'">
+<link rel="preload" href="css/style.css" as="style">
+<link rel="stylesheet" href="css/style.css" media="print" onload="this.media='all'">
+<!-- /20220430 yuki -->
 <link rel="shortcut icon" href="images/favicon.ico" />
 </head>
 <body onLoad="initialize();" class="home">
